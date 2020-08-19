@@ -1,5 +1,12 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+## Introduction
+
+In the project Learning REACT HOOK <br />
+on YOUTUBE CMDev Channel <br />
+playlist "ReactJS สอนการใช้ React Hook ต่างๆ<br />
+via https://www.youtube.com/playlist?list=PLjPfp4Ph3gBowskVFVlPbh6CkHeSlH0uW <br />
+
 ## Available Scripts
 
 In the project directory, you can run:
